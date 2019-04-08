@@ -1,4 +1,3 @@
-# 474Assn1
 474 Assignment 1 Write Up:
 Gabe Bizar
 
